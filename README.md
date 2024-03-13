@@ -6,22 +6,22 @@ Passionate about creating delightful user experiences through Full Stack Develop
 I'm a self-motivated and detail-oriented Full Stack Developer, specializing in both frontend and backend technologies. With a keen eye for design and a love for clean code, I strive to craft web interfaces that not only look great but also deliver a seamless user experience.
 
 <h2>Skills</h2>
-**Frontend**
-**Languages**: HTML, CSS, JavaScript, TypeScript
-**Frameworks**: ReactJS, Next.js
-**State Management**: Redux
-**Backend**
-**Languages**: JavaScript (Node.js), TypeScript
+Frontend</h4>
+<h4>Languages</h4>: HTML, CSS, JavaScript, TypeScript
+<h4>Frameworks</h4>: ReactJS, Next.js
+<h4>State Management</h4>: Redux
+<h4>Backend</h4>
+<h4>Languages</h4>: JavaScript (Node.js), TypeScript
 
-**Frameworks**: Express
+<h4>Frameworks</h4>: Express
 
-**Databases**: MongoDB, SQL
+<h4>Databases</h4>: MongoDB, SQL
 
 Version Control: Git
 
 Tools: Visual Studio Code, GitHub
 
-What I'm Up To
+<h3>What I'm Up To</h3>
 🌱 Currently expanding my knowledge in ReactJS, Redux, TypeScript, and Next.js to build more robust and scalable web applications.
 
 🚀 Actively seeking opportunities to collaborate on projects involving Full Stack Development.
