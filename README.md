@@ -4,7 +4,7 @@ Passionate about creating delightful user experiences through Full Stack Develop
 
 <h1>About Me</h1> <br />
 I'm a self-motivated and detail-oriented Full Stack Developer, specializing in both frontend and backend technologies. With a keen eye for design and a love for clean code, I strive to craft web interfaces that not only look great but also deliver a seamless user experience.
-
+<br />
 
 **Skills**
 
