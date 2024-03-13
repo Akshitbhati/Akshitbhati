@@ -1,4 +1,5 @@
-Hi there, I'm Akshit Bhati! 👋
+**Hi there, I'm Akshit Bhati!** 👋
+
 Passionate about creating delightful user experiences through Full Stack Development.
 
 About Me
