@@ -7,7 +7,7 @@ I'm a self-motivated and detail-oriented Full Stack Developer, specializing in b
 
 <h2>Skills</h2>
 Frontend</h4>
-<h4>Languages</h4>: HTML, CSS, JavaScript, TypeScript
+<span><h4>Languages</h4>: HTML, CSS, JavaScript, TypeScript</span>
 <h4>Frameworks</h4>: ReactJS, Next.js
 <h4>State Management</h4>: Redux
 <h4>Backend</h4>
